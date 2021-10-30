@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋🏿, 
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ntare22) -->
 <!--
 **Ntare22/Ntare22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
