@@ -19,9 +19,6 @@ As a software engineer, I enjoy using my skills to work on projects that change 
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
