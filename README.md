@@ -17,10 +17,6 @@ As a software engineer, I enjoy using my skills to work on projects that change 
 - 💬 Please reach out to me about anything, I am happy to help;
 - 📫 How to reach me: jim.ntare@gmail.com or jim@ntare.xyz;
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 📈 **My GitHub Stats:**
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ntare22&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
