@@ -10,7 +10,7 @@ I am a full-stack software engineer and entrepreneur. I love programming, speaki
 
 As a software engineer, I enjoy using my skills to work on projects that change the world. My goal is to inspire the next generation of African Software Engineers to disrupt the status quo, and innovate for the world
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on igazeti (watch this space);
 - 🚀 I’m currently learning Data Structures and Algorithms on [Udemy](https://www.udemy.com/);
