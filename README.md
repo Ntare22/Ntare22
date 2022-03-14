@@ -13,7 +13,7 @@ As a software engineer, I enjoy using my skills to work on projects that change 
 **Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on igazeti (watch this space);
-- 🚀 I’m currently learning Data Structures and Algorithms on [Udemy](https://www.udemy.com/);
+- 🚀 I’m currently explored advance React/Typescript on [Udemy](https://www.udemy.com/);
 - 💬 Please reach out to me about anything, I am happy to help;
 - 📫 How to reach me: jim.ntare@gmail.com or jim@ntare.xyz;
 
