@@ -8,6 +8,6 @@
 
 I am a full-stack software engineer and entrepreneur. I love programming, speaking and traveling.
 
-As a software engineer, I enjoy using my skills to work on projects that change the world. My goal is to inspire the next generation of African Software Engineers to disrupt the status quo, and innovate for the world
+As a software engineer, I enjoy using my skills to work on projects that change the world. My goal is to inspire the next generation of African Technologists to disrupt the status quo, and innovate for the world
 
 
