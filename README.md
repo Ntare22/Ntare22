@@ -10,16 +10,4 @@ I am a full-stack software engineer and entrepreneur. I love programming, speaki
 
 As a software engineer, I enjoy using my skills to work on projects that change the world. My goal is to inspire the next generation of African Software Engineers to disrupt the status quo, and innovate for the world
 
-**Talking about Personal Stuff:**
-
-- 👨🏻‍💻 I’m currently working on igazeti (watch this space);
-- 🚀 I’m currently explored advance React/Typescript on [Udemy](https://www.udemy.com/);
-- 💬 Please reach out to me about anything, I am happy to help;
-- 📫 How to reach me: jim.ntare@gmail.com or jim@ntare.xyz;
-
-📈 **My GitHub Stats:**
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ntare22&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntare22&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
